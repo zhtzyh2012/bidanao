@@ -1,0 +1,71 @@
+
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+#import "BDBaseViewController.h"
+#import "BDNavigationViewController.h"
+#import "Masonry.h"
+#import <UIImageView+WebCache.h>
+
+#import "TagView.h"
+
+#import "UIBarButtonItem+Extension.h"
+//#import "UIView+Extension.h"
+#import "UIView+GoodView.h"
+
+#import "URL.h"
+#import "CheckString.h"
+#import "UIView+Toast.h"
+#import "BDBaseHttpTool.h"
+#import "WRCellView.h"
+#import "BDBaseLabel.h"
+#import "BDBaseViewController.h"
+#import "BDInsetLabel.h"
+
+
+//随机颜色
+#define RandomColor [UIColor colorWithRed:arc4random_uniform(256)/255.0 green:arc4random_uniform(256)/255.0 blue:arc4random_uniform(256)/255.0 alpha:1]
+//绿色主题
+//#define ThemeColor [UIColor colorWithRed:73/255.0 green:216/255.0 blue:207/255.0  alpha:1.000]
+#define ThemeColor [UIColor colorWithRed:54/255.0 green:156/255.0 blue:252/255.0  alpha:1.000]
+
+//蓝色主题
+#define ThemeBlueColor [UIColor colorWithRed:54/255.0 green:156/255.0 blue:252/255.0  alpha:1.000]
+//浅蓝色主题
+#define ThemelightBlueColor [UIColor colorWithRed:192/255.0 green:226/255.0 blue:254/255.0  alpha:1.000]
+//背景的灰色
+#define ThemeGrayColor [UIColor colorWithRed:246/255.0 green:246/255.0 blue:246/255.0  alpha:1.000]
+//发需求的名称颜色浅黑
+#define ThemelightDarkColor [UIColor colorWithRed:70/255.0 green:71/255.0 blue:73/255.0  alpha:1.000]
+
+
+#define KScreen_WIDTH   [[UIScreen mainScreen] bounds].size.width
+#define KScreen_HEIGHT  [[UIScreen mainScreen] bounds].size.height
+#define KScreenSize [UIScreen mainScreen].bounds
+//颜色
+#define rgb(r,g,b) [UIColor colorWithRed:r / 255.f green:g / 255.f blue:b / 255.f alpha:1.0]
+
+//抽取颜色
+#define RGB(r,g,b,a) [UIColor colorWithRed:r/255.0 green:g/255.0 blue:b/255.0 alpha:a]
+
+
+#endif /* PrefixHeader_pch */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

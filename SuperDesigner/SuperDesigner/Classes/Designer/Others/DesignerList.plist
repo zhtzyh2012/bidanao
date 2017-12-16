@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>icon</key>
+		<string>userIcon</string>
+		<key>name</key>
+		<string>张家界</string>
+		<key>sex</key>
+		<string>userSex</string>
+		<key>rank</key>
+		<string>1星</string>
+		<key>city</key>
+		<string>userCity</string>
+		<key>campus</key>
+		<string>北京师范大学</string>
+		<key>experience</key>
+		<string>10年设计经验</string>
+		<key>skilled</key>
+		<string>擅长建筑类型:</string>
+		<key>buildType</key>
+		<string>园林 商业 观览</string>
+	</dict>
+</array>
+</plist>

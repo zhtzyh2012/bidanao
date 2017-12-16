@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>header</key>
+		<string></string>
+		<key>footer</key>
+		<string></string>
+		<key>items</key>
+		<array>
+			<dict>
+				<key>accessorView</key>
+				<string>UIImageView</string>
+				<key>icon</key>
+				<string>msg_first</string>
+				<key>title</key>
+				<string>实名认证</string>
+			</dict>
+			<dict>
+				<key>accessorView</key>
+				<string>UIImageView</string>
+				<key>icon</key>
+				<string>contact_second</string>
+				<key>title</key>
+				<string>上传作品</string>
+			</dict>
+			<dict>
+				<key>accessorView</key>
+				<string>UIImageView</string>
+				<key>icon</key>
+				<string>chat_third</string>
+				<key>title</key>
+				<string>资质证书</string>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>

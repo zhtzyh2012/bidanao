@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>icon</key>
+		<string>userIcon_one</string>
+		<key>name</key>
+		<string>京城设计院哈哈哈</string>
+		<key>scor</key>
+		<string>综合评分:9.0分</string>
+		<key>type</key>
+		<string>城市规划,城市规划,园林设计</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>userIcon_one</string>
+		<key>name</key>
+		<string>京城设计院</string>
+		<key>scor</key>
+		<string>综合评分:9.0分</string>
+		<key>type</key>
+		<string>城市规划,城市规划,园林设计,城市规划,城市规划,园林设计</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>userIcon_one</string>
+		<key>name</key>
+		<string>京城设计院</string>
+		<key>scor</key>
+		<string>综合评分:9.0分</string>
+		<key>type</key>
+		<string>城市规划,城市规划,园林设计,城市规划,园林设计,建筑设计</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>userIcon_one</string>
+		<key>name</key>
+		<string>京城设计院</string>
+		<key>scor</key>
+		<string>综合评分:9.0分</string>
+		<key>type</key>
+		<string>城市规划,城市规划,园林设计,城市规划,园林设计,建筑设计</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>userIcon_one</string>
+		<key>name</key>
+		<string>京城设计院</string>
+		<key>scor</key>
+		<string>综合评分:9.0分</string>
+		<key>type</key>
+		<string>城市规划,城市规划,园林设计,城市规划,园林设计,建筑设计</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>userIcon_one</string>
+		<key>name</key>
+		<string>京城设计院</string>
+		<key>scor</key>
+		<string>综合评分:9.0分</string>
+		<key>type</key>
+		<string>城市规划,城市规划,园林设计,城市规划,园林设计,建筑设计</string>
+	</dict>
+</array>
+</plist>
